@@ -131,22 +131,6 @@ h1 {
     cursor: pointer;
     margin-bottom: 3rem;    
 }
-
-     #msg {
-        color: #ffffc7;
-        font-size: 7vmin;
-    }
-    
-    .msg-container {
-        height: 155vmin;
-        gap : 5rem;
-/*         display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        background-color: rgb(77, 74, 74); */
-    }
-    
 }
 
 /* For screens between 600px and 900px */
@@ -177,12 +161,12 @@ h1 {
     
     .msg-container {
         height: 155vmin;
-/*         display: flex;
+        display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column; */
         gap: 5rem;
-/*         background-color: rgb(77, 74, 74); */
+        background-color: rgb(77, 74, 74);
     } 
 }
 
@@ -207,14 +191,6 @@ h1 {
     margin-bottom: 3rem;
 }
 
-     #msg {
-        color: #ffffc7;
-        font-size: 7vmin;
-    }
-    
-    .msg-container {
-        gap: 5rem;
-    }
 }
 
 /* For screens larger than 1200px */
@@ -238,11 +214,8 @@ h1 {
     margin-bottom: 3rem;    
 }
 
-     #msg {
-        color: #ffffc7;
-        font-size: 7vmin;
-    }
-    
+   
+
   
 }
 
