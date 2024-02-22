@@ -153,21 +153,6 @@ h1 {
     cursor: pointer;
     margin-bottom: 3rem;
 }
-
-    #msg {
-        color: #ffffc7;
-        font-size: 7vmin;
-    }
-    
-    .msg-container {
-        height: 155vmin;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column; */
-        gap: 5rem;
-        background-color: rgb(77, 74, 74);
-    } 
 }
 
 /* For screens between 900px and 1200px */
