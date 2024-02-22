@@ -120,6 +120,17 @@ h1 {
     #msg {
         font-size: 1rem;
     }
+
+    #reset-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: rgb(218, 201, 255);
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+}
+    
 }
 
 /* For screens between 600px and 900px */
@@ -131,6 +142,16 @@ h1 {
     .score-board {
         gap: 3rem;
     }
+
+    #reset-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: rgb(218, 201, 255);
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+}
 }
 
 /* For screens between 900px and 1200px */
@@ -142,6 +163,16 @@ h1 {
     .score-board {
         gap: 4rem;
     }
+
+    #reset-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: rgb(218, 201, 255);
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+}
 }
 
 /* For screens larger than 1200px */
@@ -153,5 +184,15 @@ h1 {
     .score-board {
         gap: 5rem;
     }
+
+    #reset-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: rgb(218, 201, 255);
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+}
 }
 
